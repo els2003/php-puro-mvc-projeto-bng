@@ -1,0 +1,5 @@
+# Pasta de dependências PHP gerada pelo Composer
+/vendor/
+
+# Arquivo de lock do Composer
+/composer.lock
